@@ -1,6 +1,6 @@
 export default {
   login: {
-    adminLogin: "CloudPaste 登录",
+    adminLogin: "登录亡灵的中转站",
     apiKeyAuth: "API 密钥认证",
     username: "用户名",
     password: "密码",
